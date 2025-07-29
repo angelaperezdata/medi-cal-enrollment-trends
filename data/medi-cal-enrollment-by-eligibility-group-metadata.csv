@@ -1,0 +1,26 @@
+Field,Value
+Title,Medi-Cal Enrollment by Eligibility Group
+URL,medi-cal-enrollment-by-eligibility-group
+Description,"This dataset includes the total number of individuals enrolled in Medi-Cal by eligibility group: Modified Adjusted Gross Income (MAGI), non-MAGI, and Children’s Health Insurance Program (CHIP). The groups are defined by the Centers for Medicare and Medicaid Services (CMS) Performance Indicators (CMSPI) reporting requirements. The Department of Health Care Services (DHCS) submits eligibility and enrollment data regarding Medicaid and CHIP monthly to CMS. The enrollment data represents enrollment totals as of 60 days after the eligibility month (indicated as “Reporting Period” in the dataset). CMS publishes the state total enrollments on the CMSPI website. The total enrollment comprises of individuals who are eligible for full scope Medi-Cal by MAGI – Child, MAGI – Adult, Non-MAGI Child, Non-MAGI Adult, and CHIP eligibility groups. DHCS does not report to CMS the total enrollment in limited scope Medi-Cal or state-only funded programs (indicated as the “Non-CMSPI” in the dataset)."
+Tags,"ABX1 1,CMS,CMS Performance Indicators,CMSPI,California Eligibility and Enrollment Report,Center for Medicare and Medicaid Services,IAP,Insurance Affordability Programs,MAGI,Medi-Cal,Non-MAGI,Socrata,Total Enrollment,california department of health care services"
+License,cc-by
+Topics,Health and Human Services
+Organization,California Department of Health Care Services
+Public Access Level,Public
+Rights,No restrictions on public use
+Program Contact Name,Medi-Cal Eligibility Division / Program Review Branch / Data Analytics Section
+Program Contact Email,opendata@dhcs.ca.gov
+Author,
+Homepage URL,
+Frequency,Quarterly
+Temporal Coverage,October 2016 to March 2025
+Granularity,
+Geographic Coverage Location,
+Spatial,
+Data Standard,
+Language,
+Source Link,http://www.dhcs.ca.gov
+Additional Information,
+Related Resources,
+Secondary Sources,
+Citation,
